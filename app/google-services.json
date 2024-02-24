@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445150200505",
+    "project_id": "notification-cd7de",
+    "storage_bucket": "notification-cd7de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445150200505:android:cf507de62744099d6d5168",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBujlNBHEOVNGm9D6evbloP_oVXlvMbILw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
